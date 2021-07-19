@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ojasvi25
+- 👋 Hi, I’m Ojasvi Talwar
 - 👀 I’m interested in Computers, Programming, Data Science, Finance
 - 🌱 I’m currently learning Computer Programming, Data Analytics, Machine Learning
 - 💞️ I’m looking to collaborate on Exciting and New Challenges
